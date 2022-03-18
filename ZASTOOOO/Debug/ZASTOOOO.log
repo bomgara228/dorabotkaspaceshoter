@@ -1,0 +1,16 @@
+﻿  bonus.cpp
+  explosion.cpp
+C:\Users\st\Source\Repos\ZASTOOOO\ZASTOOOO\explosion.cpp(25,27): warning C4018: >: несоответствие типов со знаком и без знака
+  game.cpp
+C:\Users\st\Source\Repos\ZASTOOOO\ZASTOOOO\game.cpp(6,37): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+C:\Users\st\Source\Repos\ZASTOOOO\ZASTOOOO\game.cpp(6,23): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+C:\Users\st\Source\Repos\ZASTOOOO\ZASTOOOO\game.cpp(37,31): warning C4018: >: несоответствие типов со знаком и без знака
+  laser.cpp
+  main.cpp
+  meteor.cpp
+C:\Users\st\Source\Repos\ZASTOOOO\ZASTOOOO\meteor.cpp(33,10): warning C4244: инициализация: преобразование "size_t" в "float", возможна потеря данных
+C:\Users\st\Source\Repos\ZASTOOOO\ZASTOOOO\meteor.cpp(37,22): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\st\Source\Repos\ZASTOOOO\ZASTOOOO\meteor.cpp(38,22): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  player.cpp
+  Создание кода...
+  ZASTOOOO.vcxproj -> C:\Users\st\Source\Repos\ZASTOOOO\Debug\ZASTOOOO.exe
